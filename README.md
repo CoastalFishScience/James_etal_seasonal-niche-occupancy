@@ -1,2 +1,4 @@
 [![DOI](https://zenodo.org/badge/1350088447.svg)](https://doi.org/10.5281/zenodo.22183829)
+
+
 W. Ryan James, Mack White, Herbert Leavitt, Jonathan R. Rodemann, Gina A. Badlowski, James W. Sturges, Justin S. Lesser, Valentina Bautista, Nicholas A. Castillo, Sophia V. Costa, Andy Distrubell, Cody W. Eggenberger, Lauren J. Kabat, Joshua O. Linenfelser, Nicolas Rivas, Shakira Trabelsi, Jennifer S. Rehage, & Rolando O. Santos. (2026). Data and code for James et al. "Seasonality in species trophic niche width and position alters community niche occupancy" (Version v1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22183830
