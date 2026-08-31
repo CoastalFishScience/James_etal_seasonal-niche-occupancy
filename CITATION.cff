@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Data and code for James et al. "Seasonality in species trophic niche width and position alters community niche occupancy"
+message: Please cite this dataset using these metadata.
+type: dataset
+authors:
+  - given-names: W. Ryan James
+  - given-names: Mack White
+  - given-names: Herbert Leavitt
+  - given-names: Jonathan R. Rodemann
+  - given-names: Gina A. Badlowski
+  - given-names: James W. Sturges
+  - given-names: Justin S. Lesser
+  - given-names: Valentina Bautista
+  - given-names: Nicholas A. Castillo
+  - given-names: Sophia V. Costa
+  - given-names: Andy Distrubell
+  - given-names: Cody W. Eggenberger
+  - given-names: Lauren J. Kabat
+  - given-names: Joshua O. Linenfelser
+  - given-names: Nicolas Rivas
+  - given-names: Shakira Trabelsi
+  - given-names: Jennifer S. Rehage
+  - given-names: Rolando O. Santos
